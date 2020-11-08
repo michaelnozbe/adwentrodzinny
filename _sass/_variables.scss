@@ -1,0 +1,50 @@
+//
+// VARIABLES
+//
+
+// Colors
+
+//Main color - blue in my case
+$main: #073cd6;
+$mainDim: #073cd699;
+$mainBack: #f9faff;
+$mainD: #6c9efd; 
+$mainDDim: #6c9efd99;
+$mainDBack: #080c1e;
+$back: #fff;
+$backD: #000;
+$text: #333;
+$textD: #eee;
+$textG: #666;
+$textW: #fff;
+$textB: #000;
+$block: #545454;
+$blockBack: #dcdcdc;
+$blockD: #b5b5b5;
+$blockDBack: #353535;
+
+// Font stacks
+@font-face {
+  font-family: "color-emoji";
+  src: local("Apple Color Emoji"),
+       local("Segoe UI Emoji"), 
+       local("Segoe UI Symbol"),
+       local("Noto Color Emoji");
+}
+
+$font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Verdana", sans-serif, color-emoji;
+$fontserif: Georgia, Cambria, "Palatino Linotype", "Book Antiqua", Palatino, "Times New Roman", Times, serif, color-emoji;
+$fontmono: 'Lucida Console', 'Bitstream Vera Sans Mono', 'Courier', Monaco, monospace, color-emoji;
+
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
+
+//Dark mode mixin
+@mixin dark-mode {
+  @media (prefers-color-scheme: dark) { @content; }
+}

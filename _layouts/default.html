@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html><head>
+
+<title>{% if page.title %}{{ page.title }} – {{ site.data.main.titleshort }}{% else %}{{ site.data.main.title }}{% endif %}</title>
+
+<meta charset="utf-8" />
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+<meta name="twitter:card" content="summary_large_image" />
+{% if page.title %}
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="twitter:title" content="{{ page.title }}" />
+{% else %}
+<meta property="og:title" content="{{ site.data.main.title }}" />
+<meta property="twitter:title" content="{{ site.data.main.title }}" />
+{% endif %}
+{% if page.excerpt %}
+<meta name="description" content="{{ page.excerpt | strip_html }}" />
+<meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+<meta property="twitter:description" content="{{ page.excerpt | strip_html }}" />
+{% else %}
+<meta name="description" content="{{ site.data.main.description | markdownify | strip_html }}">
+<meta property="og:description" content="{{ site.data.main.description | markdownify | strip_html }}" />
+<meta property="twitter:description" content="{{ site.data.main.description | markdownify | strip_html }}" />
+{% endif %}
+{% if page.cover %}
+<meta name="twitter:image" content="{{ site.url }}/img/{{ page.cover }}" />
+<meta property="og:image" content="{{ site.url }}/img/{{ page.cover }}" />
+{% elsif page.img %}
+<meta name="twitter:image" content="{{ site.url }}/img/{{ page.img }}" />
+<meta property="og:image" content="{{ site.url }}/img/{{ page.img }}" />
+{% elsif page.vid %}
+<meta name="twitter:player" content="https://www.youtube.com/embed/{{ page.vid }}"/>
+<meta name="twitter:player:width" content="1280" />
+<meta name="twitter:player:height" content="720" />
+<meta name="twitter:image" content="https://i.ytimg.com/vi/{{ page.vid }}/maxresdefault.jpg" />
+<meta property="og:image" content="https://i.ytimg.com/vi/{{ page.vid }}/maxresdefault.jpg" />
+{% else %}
+<meta name="twitter:image" content="{{ site.url }}/img/michael.team.jpg" />
+<meta property="og:image" content="{{ site.url }}/img/michael.team.jpg" />
+{% endif %}
+<meta name="author" content="{{ site.data.main.name }}" />
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta property="og:locale" content="pl" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="{{ site.name }}" />
+<meta name="twitter:site" content="@MSliwinski"/>
+
+<!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/style.css" />
+<link rel="alternate" type="application/rss+xml" title="{{ site.data.main.title }}" href="{{ site.url }}{{ langpath }}/atom.xml" />
+<link rel="icon" type="image/png" href="{{ site.avatar }}">
+
+<script src="https://hello.michael.team/script.js"></script>
+
+{% if page.js %}
+<script type="text/javascript" src="{{ site.url }}/js/scripts.js"></script>
+</head><body onload="{{ page.js }}();">
+{% else %}
+</head><body>
+{% endif %}
+<div class="begend" id="top">
+	<div class="begender">
+		<a href="{{ site.url }}/{{ langpath }}" class="avatar" title="{{ site.data.main.title }}"><img src="/icon.png" alt="MS"></a>
+		{{ site.data.main.description | markdownify }}
+	</div>
+</div>
+
+{{ content }}
+
+<div class="begend" id="footer">
+	<div class="begender center"><p>&copy; {{ site.time | date: '%Y' }} <a href="{{ site.url }}/">{{ site.data.main.name }}</a></p>
+	</div>
+</div>
+
+</body></html>
