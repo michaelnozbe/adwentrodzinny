@@ -1,7 +1,7 @@
 const URL = "https://adwentrodzinny.pl/"; //my main domain
 
 //getting the latest "now" post from "now" tag
-function getNow () {
+function getDay () {
 	let where = '#page';
 	document.querySelector(where).after(createSpinner()); //show spinner
 	let date = new Date();
