@@ -5,15 +5,15 @@
 // Colors
 
 //Main color - blue in my case
-$main: #073cd6;
-$mainDim: #073cd699;
-$mainBack: #f9faff;
-$mainD: #6c9efd; 
-$mainDDim: #6c9efd99;
-$mainDBack: #080c1e;
-$back: #fff;
-$backD: #000;
-$text: #333;
+$main: #cca3ff;//#073cd6;
+$mainDim: #cca3ff99;//#073cd699;
+$mainBack: #33066d;//#f9faff;
+$mainD: #cca3ff;//#6c9efd; 
+$mainDDim: #cca3ff99;//#6c9efd99;
+$mainDBack: #33066d;//#080c1e;
+$back: #190332;//#fff;
+$backD: #190332;//#000; //#190332
+$text: #eee;//#333;
 $textD: #eee;
 $textG: #666;
 $textW: #fff;
@@ -22,6 +22,10 @@ $block: #545454;
 $blockBack: #dcdcdc;
 $blockD: #b5b5b5;
 $blockDBack: #353535;
+
+//bg: #190332
+//bg foot: #33066d
+//link/text: #cca3ff
 
 // Font stacks
 @font-face {
