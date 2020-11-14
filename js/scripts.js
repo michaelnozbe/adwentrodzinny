@@ -12,6 +12,10 @@ function getDay () {
 	let day = date.getDate();
 	day = day < 10 ? '0' + day : day;
 	let post = year+month+day;
+	//overriding date with test parameter
+	let params = new URLSearchParams(window.location.search);
+	let to = params.get('test');
+	if (to) post = to;
 	getArticle(post, where);
 }
 
