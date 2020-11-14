@@ -1,0 +1,24 @@
+# Rodzinna sesja zdjęciowa
+
+Dzisiaj zachęcamy Was do zrobienia sobie pamiątkowego zdjęcia rodzinnego. A może nie tylko zdjęcia, ale w ogóle całej sesji zdjęć rodzinnych?
+
+FOTO
+
+## Wskazówki do robienia zjdęcia rodzinnego
+
+* Ustal godzinę robienia zdjęć
+* Poproś każdą z osób, aby się ładnie ubrała i uczesała
+* Pomóż małym dzieciom, aby wybrały swoje ulubione ciuchy lub stroje
+* Zbierz wszystkich do salonu w domu
+* Zrób pierwsze zdjęcia na stojąco, wszyscy razem
+* Potem spróbuj w innych pozach :-)
+
+Zdjęcie można spokojnie zrobić telefonem ze smartfona. Polecam użycie statywu, ale jak nie masz go w domu, to możesz po prostu postawić telefon na jakiejś półce lub książkach.
+
+W niektórych smartfonach takich jak iPhone jest *tryb portretowy*. Można spróbować go użyć.
+
+Można pobawić się w różne stroje, albo wszyscy założą ten sam kolor, albo wszyscy przebiorą się w ciekawe postacie.
+
+Poniżej jest krótkie video - porada fotografa jak robić zdjęcia rodzinne - dla tych najbardziej wkręconych w temat:
+
+https://www.youtube.com/watch?v=og6MVm9vHOM

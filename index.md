@@ -1,4 +1,6 @@
-# Spędźmy adwent rodzinnie!
+# Rodzinny Kalendarz Adwentowy
+
+## Co to jest AdwentRodzinny.pl?
 
 Jeśli przełom listopada i grudnia jest dla Ciebie czasem ciemności, przygnębienia i doła, to czas na nowo odkryć Adwent i jego rodzinny wymiar!
 
