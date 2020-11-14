@@ -1,11 +1,13 @@
-# Rodzinny Kalendarz Adwentowy
+---
+js: getDay
+cover: adwent.jpg
+title: Rodzinny Kalendarz Adwentowy
+subtitle: Aktywności dla rodziny na każdy dzień adwentu!
+---
 
-## Co to jest AdwentRodzinny.pl?
 
-Jeśli przełom listopada i grudnia jest dla Ciebie czasem ciemności, przygnębienia i doła, to czas na nowo odkryć Adwent i jego rodzinny wymiar!
+## Do Adwentu jeszcze tylko…
 
-Na tej stronie codziennie rano czekać będzie na Ciebie propozycja rodzinnej aktywności oraz inspiracje i podpowiedzi jak ją wykonać, aby było ciekawie i radośnie.
+![](https://nozbe.net/gif/2020-11-29_pl_FF2C55.gif)
 
-Wpadaj tu z rana od pierwszej niedzieli Adwentu, 29 listopada, albo zapisz się poniżej na newsletera, który będzie przypominajką dla zapominalskich.
-
-Daj się porwać Radości, a wtedy Święta rozbłysną światłem nie tylko choinki.
+Przygotuj Twoją rodzinę na czas oczekiwania!

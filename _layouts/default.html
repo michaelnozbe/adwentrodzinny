@@ -56,17 +56,21 @@
 {{ content }}
 
 <div class="begend" id="footer">
-	<div class="begender center">
+	<div class="begender">
 	<h2>{{ site.data.main.titl }}</h2>
 	<p>{{ site.data.main.des1 }}</p>
 	<p>{{ site.data.main.des2 }}</p>
 	<p>{{ site.data.main.des3 }}</p>
 	<p>{{ site.data.main.des4 }}</p>
 	{% include email.html %}
-	<a href="{{ site.data.main.fb }}" class="avatar" title="{{ site.data.main.title }}"><img src="/icon.png" alt="MS"></a>
+	<small><a href="/onas/">{{ site.data.main.desp }}</a></small>
 	<h3>{{ site.data.main.dest }}</h3>
+	<a href="{{ site.data.main.fb }}" class="avatar" title="{{ site.data.main.title }}"><img src="/icon.png" alt="MS"></a>
 	<p>{{ site.data.main.deso }} <a href="{{ site.data.main.fb }}">{{ site.data.main.desf }}</a></p>
+	</div>
+	<div class="begender center">
 	<p>&copy; {{ site.time | date: '%Y' }} <a href="{{ site.url }}/onas">{{ site.data.main.name }}</a></p>
+	<br />
 	</div>
 </div>
 
