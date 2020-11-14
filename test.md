@@ -1,9 +1,9 @@
 ---
 js: getDay
 cover: adwent.jpg
+title: Rodzinny Kalendarz Adwentowy
+subtitle: Aktywności dla rodziny na każdy dzień adwentu!
 ---
-
-# Rodzinny Kalendarz Adwentowy
 
 <div id="tutaj"></div>
 
