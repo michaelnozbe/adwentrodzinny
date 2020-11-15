@@ -9,4 +9,4 @@ subtitle: Aktywności dla rodziny na każdy dzień adwentu!
 
 ![](https://nozbe.net/gif/2020-11-29_pl_cca3ff.gif)
 
-Przygotuj Twoją rodzinę na czas oczekiwania!
+<br>
