@@ -87,9 +87,11 @@ a {
 .left {
 	float: right;
 	width: 50%;
+	padding-left: 10px;
 	@include mobile {
 		float: none;
 		width: 100%;
+		padding-left: 0px;
 	}
 }
 
