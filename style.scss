@@ -84,10 +84,14 @@ a {
 	}
 }
 
+.container {
+	font-size: 0.8em;
+}
+
 .left {
 	float: right;
 	width: 50%;
-	padding-left: 10px;
+	padding-left: 20px;
 	@include mobile {
 		float: none;
 		width: 100%;
