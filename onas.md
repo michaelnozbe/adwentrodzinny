@@ -1,3 +1,7 @@
+---
+cover: adwent.jpg
+---
+
 # O stronie AdwentRodzinny.pl
 
 ## Stronę stworzyła wspólnota małżeństw WRSM
