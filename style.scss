@@ -48,17 +48,19 @@ a {
 }
 
 .begend {
-	background-color: $mainBack;
+	background-color: #694776;
+//	background-color: $mainBack;
 	border-bottom: 1px solid $main;
 
-	@include dark-mode {
-		background-color: $mainDBack;
-		border-bottom: 1px solid $mainD;
-	}
+//	@include dark-mode {
+//		background-color: $mainDBack;
+//		border-bottom: 1px solid $mainD;
+//	}
 }
 
 .begend#footer {
-	border-top: 1px solid $main;
+//	border-top: 1px solid $main;
+	border-top: 4px solid #fff;
 	border-bottom: 0px;
 	@include dark-mode {
 		border-top: 1px solid $mainD;
@@ -69,15 +71,34 @@ a {
 	padding: 5px;
 	p {
 		line-height: 1.3em;
-		color: $main;
-		margin: 5px;
+		color: #fff;
+//		color: $main;
+		margin: 10px 0px;
 		
 		@include dark-mode {
-			color: $mainD;
+//			color: $mainD;
 		}
 	}
 	a {
 		text-decoration: underline;
+	}
+}
+
+.left {
+	float: right;
+	width: 80%;
+	@include mobile {
+		float: none;
+		width: 100%;
+	}
+}
+
+.right {
+	float: right;
+	width: 20%;
+	@include mobile {
+		float: none;
+		width: 100%;
 	}
 }
 
@@ -170,6 +191,12 @@ input, button {
 input {
 	width: 100%;
 }
+
+article {
+	background: #d2c7d6;
+	color: #000;
+}
+
 
 article > nav {
 	padding: 0.5em;

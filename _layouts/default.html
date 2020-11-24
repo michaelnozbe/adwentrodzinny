@@ -62,12 +62,19 @@
 	<p>{{ site.data.main.des2 }}</p>
 	<p>{{ site.data.main.des3 }}</p>
 	<p>{{ site.data.main.des4 }}</p>
-	{% include email.html %}
-	<small><a href="/onas/">{{ site.data.main.desp }}</a></small>
-	<br>
-	<h3>{{ site.data.main.dest }}</h3>
-	<a href="{{ site.data.main.fb }}" class="avatar" title="{{ site.data.main.title }}"><img src="/img/wrsm.png" alt="WRSM"></a>
-	<p>{{ site.data.main.deso }} <a href="{{ site.data.main.fb }}">{{ site.data.main.desf }}</a></p>
+	
+	
+	<div class="container">
+		<div class="left">
+		{% include email.html %}
+		<small><a href="/onas/">{{ site.data.main.desp }}</a></small>
+		</div>
+		<div class="right">
+		<h3>{{ site.data.main.dest }}</h3>
+		<a href="{{ site.data.main.fb }}" class="avatar" title="{{ site.data.main.title }}"><img src="/img/wrsm.png" alt="WRSM"></a>
+		<p>{{ site.data.main.deso }} <a href="{{ site.data.main.fb }}">{{ site.data.main.desf }}</a></p>
+		</div>
+	</div>
 	</div>
 	<div class="begender center">
 	<p>&copy; {{ site.time | date: '%Y' }} <a href="{{ site.url }}/onas">{{ site.data.main.name }}</a></p>
