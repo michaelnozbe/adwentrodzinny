@@ -171,9 +171,9 @@ h4 {
 }
 
 .headerblack {
-	color: $textW;//$textB;
+	color: #000;//$textW;//$textB;
 	@include dark-mode {
-		color: $textW;
+		color: #000;//$textW;
 	}
 	a {
 		color: $textB;
