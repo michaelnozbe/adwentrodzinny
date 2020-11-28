@@ -21,13 +21,20 @@ function getDay () {
 
 //fetching an article from the system
 function getArticle (url, where) {
+	let responseOK = true; //assumes we have 200 code, not 404
 	fetch(URL+url)
+	.then((response) => {
+		if (!response.ok) responseOK = false;
+		return response;
+	})
 	.then((response) => response.text())
 	.then((responseText) => {
-		let parser = new DOMParser();
-		let fullHTML = parser.parseFromString (responseText, 'text/html');
 		createSpinner(true); //remove spinner
-		document.querySelector(where).innerHTML = fullHTML.querySelector('article').innerHTML; //get article
+		if (responseOK) { //if NOT 404, then replace the site!
+			let parser = new DOMParser();
+			let fullHTML = parser.parseFromString (responseText, 'text/html');
+			document.querySelector(where).innerHTML = fullHTML.querySelector('article').innerHTML; //get article
+		}
 	})
 	.catch((error) => {
 		console.error(error)

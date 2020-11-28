@@ -5,5 +5,6 @@ title: Rodzinny Kalendarz Adwentowy
 subtitle: Aktywności dla rodziny na każdy dzień adwentu!
 ---
 
-<div id="tutaj"></div>
+## Strona testowa
 
+Tutaj testujemy stronkę!
