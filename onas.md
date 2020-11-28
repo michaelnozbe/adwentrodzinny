@@ -22,4 +22,6 @@ Adresy e-mail zebrane na tej stronie będą służyły tylko i wyłącznie do wy
 
 Po adwencie 2020 będzie można z tej listy albo się wypisać, albo zostawić swój adres w celu otrzymania informacji o kolejnej akcji adwentowej za rok.
 
+**[Powrót do strony głównej](/)**
+
 [fb]: {{ site.data.main.fb }}

@@ -15,4 +15,4 @@ Zasadniczo wystarczy wianek (dostępny w każdej kwiaciarni) i cztery świece. W
 
 **Pierwszą świecę zapalamy 29 listopada**, a kolejne w następne niedziele aż do ostatniej, czwartej, gdy zapłoną wszystkie cztery świeczki.
 
-[Powrót do strony głównej](/)
+**[Powrót do strony głównej](/)**
