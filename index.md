@@ -5,7 +5,7 @@ title: Rodzinny Kalendarz Adwentowy
 subtitle: Aktywności dla rodziny na każdy dzień adwentu!
 ---
 
-## Do Adwentu jeszcze tylko… kilka minut!
+## Ładujemy najnowsze zadanie adwentowe…
 
 [Przygotuj już wieniec adwentowy](/wieniec)
 
