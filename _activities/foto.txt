@@ -1,13 +1,24 @@
-# Rodzinny spacer bez telefonów
+# Rodzinna sesja zdjęciowa
 
-Smartfony to bardzo pożyteczne urządzenia, ale czy zastanawialiście się kiedyś, ile czasu kradnie nam codziennie telefon? Ile jest takich sytuacji, że nie poświęcamy całości naszej uwagi człowiekowi, którego spotykamy, ale dzielimy nasze zaangażowanie między jego a smartfon?
+ Dzisiaj zachęcamy Was do zrobienia sobie pamiątkowego zdjęcia rodzinnego. A może nie tylko zdjęcia, ale w ogóle całej sesji zdjęć rodzinnych?
 
-Zadanie na dziś jest następujące: **zostawiamy wszystkie telefony w domu i wychodzimy na wspólny, rodzinny spacer**, najlepiej na co najmniej godzinę. Ile ciekawych rzeczy może się w tym czasie zdarzyć? Czy jesteśmy w stanie podarować sobie nawzajem ten czas w 100%?
+ ![Zdjęcie](/img/foto.jpg)
 
-Jeżeli jesteście na kwarantannie lub z innego powodu nie możecie opuścić domu proponujemy wyłączyć telefony na godzinę i podróżować palcem po mapie, pooglądać film przyrodniczy, powspominać minione wyjazdy, spacery, wypady, pomarzyć gdzie można by pojechać…
+ ## Wskazówki do robienia zjdęcia rodzinnego
 
-2020-12-19.jpg
+ * Ustal godzinę robienia zdjęć
+ * Poproś każdą z osób, aby się ładnie ubrała i uczesała
+ * Pomóż małym dzieciom, aby wybrały swoje ulubione ciuchy lub stroje
+ * Zbierz wszystkich do salonu w domu
+ * Zrób pierwsze zdjęcia na stojąco, wszyscy razem
+ * Potem spróbuj w innych pozach :-)
 
-Warto post factum zadać sobie pytanie – czy bardzo mi telefonu brakowało? Może spróbować smartfonowego postu przez kilka dni adwentu, lub ograniczyć w tym czasie używanie niektórych aplikacji.
+ Zdjęcie można spokojnie zrobić telefonem ze smartfona. Polecam użycie statywu, ale jak nie masz go w domu, to możesz po prostu postawić telefon na jakiejś półce lub książkach.
 
-Jeżeli jesteście ciekawi, jak mądrze wprowadzać dzieci w świat telefonii, jak ustalać domowe zasady ekranowe, [to warto rzucić okiem tutaj](https://www.ojcowskastronamocy.pl/domowe-zasady-ekranowe-osm-podcast-050/).
+ W niektórych smartfonach takich jak iPhone jest *tryb portretowy*. Można spróbować go użyć.
+
+ Można pobawić się w różne stroje, albo wszyscy założą ten sam kolor, albo wszyscy przebiorą się w ciekawe postacie.
+
+ Poniżej jest krótkie video - porada fotografa jak robić zdjęcia rodzinne - dla tych najbardziej wkręconych w temat:
+
+ {% include video.html id="og6MVm9vHOM" %}
