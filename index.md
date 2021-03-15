@@ -5,7 +5,6 @@ title: Rodzinny Kalendarz Adwentowy
 subtitle: Aktywności dla rodziny na każdy dzień adwentu!
 ---
 
-## Ładujemy najnowsze zadanie adwentowe…
+## Do adwentu 2021 jeszcze…
 
-[Przygotuj już wieniec adwentowy](/wieniec)
-
+![](https://nozbe.net/gif/2021-11-28_pl_FF2C55.gif)
