@@ -42,7 +42,7 @@ a {
 	}
 }
 
-.begender, .header, .entry, article > nav, article > footer {
+.begender, .entry, article > nav, article > footer {
 	max-width: 700px;
 	margin: auto;
 }
@@ -193,7 +193,7 @@ h4 {
 }
 
 header {
-	padding: 1em 0;
+	display: flex;
 }
 
 input, button {
