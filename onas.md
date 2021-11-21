@@ -8,7 +8,7 @@ cover: adwent.jpg
 
 [Więcej o naszej wspólnocie na Facebooku][fb]
 
-Głównymi pomysłodawcami i wykonawcami rodzinnego kalendarza adwentowego online ze strony Wspólnoty są trzy małżeństwa: Marta i Krzysztof Mital, Jola i Jarek Kania oraz Ewelina i Michał Śliwińscy.
+Głównymi pomysłodawcami i wykonawcami rodzinnego kalendarza adwentowego online ze strony Wspólnoty są trzy małżeństwa: Marta i Krzysztof Mital, Jola i Jarek Kania oraz Ewelina i Michał Śliwińscy, we współpracy z Karoliną Potulską i Natalią Cieślak.
 
 Wszystkie uwagi odnośnie strony i aktywności na stronie prosimy pisać [na naszej stronie na Facebooku][fb].
 
@@ -20,7 +20,7 @@ Lista mailingowa utrzymywana jest na platformie *GetResponse* na koncie firmy *N
 
 Adresy e-mail zebrane na tej stronie będą służyły tylko i wyłącznie do wysyłania przypomnień do wykonywania aktywności w ramach Adwentowego kalendarza rodzinnego.
 
-Po adwencie 2020 będzie można z tej listy albo się wypisać, albo zostawić swój adres w celu otrzymania informacji o kolejnej akcji adwentowej za rok.
+Po adwencie 2021 będzie można z tej listy albo się wypisać, albo zostawić swój adres w celu otrzymania informacji o kolejnej akcji adwentowej za rok.
 
 **[Powrót do strony głównej](/)**
 
