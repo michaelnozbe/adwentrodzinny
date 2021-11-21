@@ -161,12 +161,15 @@ h4 {
 .header {
 	text-align: center;
 	color: $textW;
+	margin: auto auto 0px;
+	background-color: rgba(0, 0, 0, 0.5);
 	a {
 		text-decoration: none;
 		color: $textW;
 	}
 	h1, h2, h3 {
 		text-shadow: 2px 2px 4px $textB;
+		margin: 0 5px;
 	}
 }
 
