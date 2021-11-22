@@ -1,6 +1,6 @@
 ---
 layout: page-2
-cover: adwent-2021.jpg
+cover: adwent-rodzinny-banner.jpg
 title: Wieniec Adwentowy
 subtitle: Zadanie ZERO - przygotuj się na Adwent
 ---

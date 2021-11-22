@@ -12,3 +12,6 @@ let x = setInterval(function() { // Update the count down every 1 second
 		document.querySelector("#counter").innerHTML = "ADWENT!";
 	}
 }, 1000);
+//How to embed the counter?
+//<h2>Do adwentu jeszcze… <span id="counter" class="bold"></span></h2>
+//<script type="text/javascript" src="{{ site.url }}/js/counter.js"></script>
