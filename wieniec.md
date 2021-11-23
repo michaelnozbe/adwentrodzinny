@@ -1,10 +1,7 @@
 ---
-layout: page-2
-cover: adwent-rodzinny-banner.jpg
 title: Wieniec Adwentowy
 subtitle: Zadanie ZERO - przygotuj się na Adwent
 ---
-
 
 ## Adwent to droga z ciemności do światła.
 

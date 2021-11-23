@@ -1,6 +1,5 @@
 ---
 js: getDay
-cover: adwent.jpg
 title: Rodzinny Kalendarz Adwentowy
 subtitle: Aktywności dla rodziny na każdy dzień adwentu!
 ---
@@ -15,3 +14,7 @@ Jeśli chcesz dostać powiadomienie o aktywnościach na Adwent 2021, zapisz się
 {% include email.html %}
 
 <small><a href="/onas/">{{ site.data.main.desp }}</a></small>
+
+Aby śledzić adwent z nami przez kolejne dni, ściągnij, wydrukuj i pokoloruj tą Adwentową kolorwankę:
+
+[![Kolorowanka](/img/adwent-rodzinny-kolorowanka.png)](/img/adwent-rodzinny-kolorowanka.pdf)
