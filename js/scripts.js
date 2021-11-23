@@ -1,10 +1,8 @@
 const URL = "https://adwentrodzinny.pl/"; //my main domain
 
-//getting the latest "now" post from "now" tag
 function getDay () {
 	let where = '#tutaj';
-//	document.querySelector(where).after(createSpinner()); //show spinner
-	document.querySelector(where).prepend(createSpinner()); //show spinner
+	document.querySelector(where+'spinner').after(createSpinner()); //show spinner
 	let date = new Date();
 	let year = date.getFullYear();
 	year = year.toString().slice(-2);
