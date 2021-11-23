@@ -177,6 +177,7 @@ h4 {
 	text-align: center;
 	color: $textB;
 	margin: 0 auto;
+	background-color: $back;
 	@include dark-mode {
 		color: $textW;
 	}
