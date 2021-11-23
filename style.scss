@@ -174,18 +174,21 @@ h4 {
 }
 
 .headerblack {
-	color: #000;//$textW;//$textB;
+	text-align: center;
+	color: $textB;
+	margin: 0 auto;
 	@include dark-mode {
-		color: #000;//$textW;
+		color: $textW;
 	}
 	a {
+		text-decoration: none;
 		color: $textB;
 		@include dark-mode {
 			color: $textW;
 		}
 	}
 	h1, h2, h3 {
-		text-shadow: 1px 1px 2px $textW;//$textB;
+		text-shadow: 1px 1px 2px $textB;
 		@include dark-mode {
 			text-shadow: 1px 1px 2px $textW;
 		}
