@@ -2,7 +2,7 @@ const URL = "https://adwentrodzinny.pl/"; //my main domain
 
 function getDay () {
 	let where = '#tutaj';
-	document.querySelector(where+'spinner').after(createSpinner()); //show spinner
+//	document.querySelector(where+'spinner').after(createSpinner()); //show spinner
 	let date = new Date();
 	let year = date.getFullYear();
 	year = year.toString().slice(-2);
@@ -28,7 +28,7 @@ function getArticle (url, where) {
 	})
 	.then((response) => response.text())
 	.then((responseText) => {
-		createSpinner(true); //remove spinner
+//		createSpinner(true); //remove spinner
 		if (responseOK) { //if NOT 404, then replace the site!
 			let parser = new DOMParser();
 			let fullHTML = parser.parseFromString (responseText, 'text/html');
