@@ -1,7 +1,7 @@
 const URL = "https://adwentrodzinny.pl/"; //my main domain
 
 function getDay () {
-	let where = '#tutaj';
+	let where = '#page';
 	document.querySelector(where).after(createSpinner()); //show spinner
 	let date = new Date();
 	let year = date.getFullYear();
