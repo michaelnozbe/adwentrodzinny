@@ -292,14 +292,14 @@ blockquote {
 	margin: 1em;
 	border-radius: 10px;
 	color: $block;
-	background-color: $blockBack;
+	background-color: $back;//$blockBack;
 	font-family: $fontserif;
 	font-style: italic;
 	transform: rotate(-2deg);
 
 	@include dark-mode {
 		color: $blockD;
-		background-color: $blockDBack;
+		background-color: $back;//$blockDBack;
 	}
 }
 
