@@ -11,7 +11,6 @@ function disqus() {
 			disqus_url = window.location.href;
 			disqus_identifier = disqus_url;
 		}
-		alert ('GO: '+disqus_url);
 		disqus_loaded = true;
 		var e = document.createElement("script");
 		e.type = "text/javascript";
@@ -40,7 +39,7 @@ function getDay () {
 	let to = params.get('test');
 	if (to) post = to;
 	
-	disqus_url = URL + post;
+	disqus_url = URL + post + '/';
 	disqus_identifier = disqus_url;
 	
 	getArticle(post, where);
