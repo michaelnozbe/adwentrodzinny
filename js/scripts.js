@@ -11,7 +11,7 @@ function disqus() {
 			disqus_url = window.location.href;
 			disqus_identifier = disqus_url;
 		}
-		alert (disqus_url);
+		alert ('GO: '+disqus_url);
 		disqus_loaded = true;
 		var e = document.createElement("script");
 		e.type = "text/javascript";
