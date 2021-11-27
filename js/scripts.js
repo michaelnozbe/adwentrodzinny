@@ -1,5 +1,28 @@
 const URL = "https://adwentrodzinny.pl/"; //my main domain
 
+var disqus_shortname = "adwentrodzinny-pl";
+var disqus_url = "";
+var disqus_identifier = "";
+var disqus_loaded = false;
+
+function disqus() {
+	if (!disqus_loaded)  {
+		if (!disqus_url) {
+			disqus_url = window.location.href;
+			disqus_identifier = disqus_url;
+		}
+		disqus_loaded = true;
+		var e = document.createElement("script");
+		e.type = "text/javascript";
+		e.async = true;
+		e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+		(document.getElementsByTagName("head")[0] ||
+		 document.getElementsByTagName("body")[0])
+		.appendChild(e);
+	}
+}
+
+
 function getDay () {
 	let where = '#page';
 	document.querySelector(where).after(createSpinner()); //show spinner
@@ -15,6 +38,10 @@ function getDay () {
 	let params = new URLSearchParams(window.location.search);
 	let to = params.get('test');
 	if (to) post = to;
+	
+	disqus_url = URL + post;
+	disqus_identifier = disqus_url;
+	
 	getArticle(post, where);
 }
 
