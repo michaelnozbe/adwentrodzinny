@@ -55,8 +55,9 @@
   gtag('config', 'G-1KPKWJTHP5');
 </script>
 
+
 <script type="text/javascript" src="{{ site.url }}/js/scripts.js"></script>
-</head><body onload="{{ page.js }}();">
+</head>{% if page.js %}<body onload="{{ page.js }}();">{% else %}<body>{% endif %}
 
 <header style="background: url('{{ site.url }}/img/adwent-rodzinny-banner.jpg') center center / cover no-repeat; min-height: 300px;"><div class="header"></div></header>
 
@@ -79,7 +80,7 @@
 		</div>
 		<div class="right">
 		<h3>{{ site.data.main.dest }}</h3>
-		<a href="{{ site.data.main.fb }}" class="avatar" title="{{ site.data.main.title }}"><img src="/img/wrsm-logo.png" alt="WRSM"></a>
+		<a href="{{ site.data.main.fb }}" class="avatar" title="{{ site.data.main.title }}"><img src="/img/wrsmlogo.png" alt="WRSM"></a>
 		<p>{{ site.data.main.deso }}<br><a href="{{ site.data.main.fb }}">{{ site.data.main.desf }}</a></p>
 		</div>
 	</div>

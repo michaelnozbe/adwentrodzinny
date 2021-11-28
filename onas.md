@@ -1,7 +1,3 @@
----
-cover: adwent.jpg
----
-
 # O stronie "Adwent Rodzinny"
 
 ## Stronę stworzyła wspólnota małżeństw WRSM
@@ -24,7 +20,9 @@ Po adwencie 2021 będzie można z tej listy albo się wypisać, albo zostawić s
 
 ## Komentarze na stronie
 
-Od tego roku 2021 wprowadziliśmy komentarze na stronie za pomocą platformy Disqus, dzięki temu można komentować za pomocą e-maila lub profilów społecznościowych. Akceptujemy komentarze tylko i wyłącznie na temat aktywności z każdego dnia i bardzo prosimy podchodzić z miłością do bliźniego. Zastrzegamy sobie prawo do usuwania nieporządanych komentarzy lub w ogóle ich wyłączenia, jeśli moderacja będzie zbyt czasochłonna. Mamy jednak nadzieję, że dyskusje będą super!
+Od tego roku 2021 wprowadziliśmy komentarze na stronie za pomocą platformy Disqus, dzięki temu można komentować za pomocą e-maila lub profilów społecznościowych.
+
+Akceptujemy komentarze tylko i wyłącznie na temat aktywności z każdego dnia i bardzo prosimy podchodzić z miłością do bliźniego. Zastrzegamy sobie prawo do usuwania nieporządanych komentarzy lub w ogóle ich wyłączenia, jeśli moderacja będzie zbyt czasochłonna. Mamy jednak nadzieję, że dyskusje będą super!
 
 **[Powrót do strony głównej](/)**
 
