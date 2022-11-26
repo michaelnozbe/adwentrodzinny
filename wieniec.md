@@ -1,5 +1,5 @@
 ---
-title: Wieniec Adwentowy
+title: Wieniec Adwentowy 2022
 subtitle: Zadanie ZERO - przygotuj się na Adwent
 ---
 
@@ -13,6 +13,6 @@ Zasadniczo wystarczy wianek (dostępny w każdej kwiaciarni) i cztery świece. W
 
 ![Wieniec](/img/adwent-1.jpg)
 
-**Pierwszą świecę zapalamy 29 listopada**, a kolejne w następne niedziele aż do ostatniej, czwartej, gdy zapłoną wszystkie cztery świeczki.
+**Pierwszą świecę zapalamy 27 listopada**, a kolejne w następne niedziele aż do ostatniej, czwartej, gdy zapłoną wszystkie cztery świeczki.
 
 **[Powrót do strony głównej](/)**

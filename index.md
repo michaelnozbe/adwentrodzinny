@@ -11,4 +11,6 @@ Jeśli chcesz dostać powiadomienie o aktywnościach na Adwent 2022, zapisz się
 
 {% include email.html %}
 
+<h3><a href="/wieniec/">W międzyczasie przygotuj wieniec adwentowy…</a></h3>
+
 <small><a href="/onas/">{{ site.data.main.desp }}</a></small>
