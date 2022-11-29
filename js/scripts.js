@@ -36,7 +36,7 @@ function getDay () {
 	let post = year+month+day;
 	//overriding date with test parameter
 	let params = new URLSearchParams(window.location.search);
-	let to = params.get('test');
+	let to = params.get('d');
 	if (to) post = to;
 	
 	disqus_url = URL + post + '/';
