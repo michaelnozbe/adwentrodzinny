@@ -22,10 +22,8 @@ function disqus() {
 	}
 }
 
-
-function getDay () {
-	let where = '#page';
-	document.querySelector(where).after(createSpinner()); //show spinner
+function getToday () {
+	//getting today's date in format of our blog posts: YYMMDD
 	let date = new Date();
 	let year = date.getFullYear();
 	year = year.toString().slice(-2);
@@ -33,8 +31,14 @@ function getDay () {
 	month = month < 10 ? '0' + month : month;
 	let day = date.getDate();
 	day = day < 10 ? '0' + day : day;
-	let post = year+month+day;
-	//overriding date with test parameter
+	return year + month + day;
+}
+
+function getDay () {
+	let where = '#page';
+	document.querySelector(where).after(createSpinner()); //show spinner
+	let post = getToday();
+	//overriding date with test parameter "?d=YYMMDD"
 	let params = new URLSearchParams(window.location.search);
 	let to = params.get('d');
 	if (to) post = to;
@@ -43,6 +47,22 @@ function getDay () {
 	disqus_identifier = disqus_url;
 	
 	getArticle(post, where);
+}
+
+// parsing through the list of this year's posts and adding links
+function getList() {
+	let today = getToday();
+	let params = new URLSearchParams(window.location.search);
+	let test = params.get('d');
+	//getting all the headers to add links to them
+	let divs = document.getElementsByTagName('h2');
+	for (let div of divs) {
+		let tekst = div.innerHTML;
+		div.innerHTML = '<a href="/?d='+div.id+'">'+tekst+'</a>';
+		if (test != 'test') { //if it's not a test, we only highlight past
+			if (div.id == today) break;
+		}
+	}
 }
 
 //fetching an article from the system
