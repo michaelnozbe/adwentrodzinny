@@ -4,6 +4,8 @@
 
 [Więcej o naszej wspólnocie na Facebooku][fb]
 
+![WRSM](/img/wrsm2022.jpg)
+
 Głównymi pomysłodawcami i wykonawcami rodzinnego kalendarza adwentowego online ze strony Wspólnoty są trzy małżeństwa: Marta i Krzysztof Mital, Jola i Jarek Kania oraz Ewelina i Michał Śliwińscy, we współpracy z Karoliną Potulską i Natalią Cieślak oraz Darią Narloch, Iwoną Śmierzchalską i Sebastianem Wilkiem.
 
 Wszystkie uwagi odnośnie strony i aktywności na stronie prosimy pisać [na naszej stronie na Facebooku][fb].
