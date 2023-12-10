@@ -12,14 +12,14 @@ YYYY-MM-DD-YYMMDD.md
 
 Czyli rok, miesiąc i dzień po czym rok miesiąc i dzień pisane bardziej kompaktowo.
 
-Każdy wpis jest formatowany w [Markdown](https://michael.team/markdown), gdzie ma tytuł "#" i potem treść. Czasami okraszoną zdjęciem lub embedowanym video.
+Każdy wpis jest formatowany w [Markdown](https://michael.team/markdown), gdzie ma tytuł "#" i potem treść. Czasami okraszoną zdjęciem (z pixabay.com lub Dall-e) lub embedowanym video.
 
 Oprócz tego używamy listy mailingowej opartej o platformę GetResponse.
 
 ## Najważniejsze podstrony:
 
 - [strona główna](https://adwentrodzinny.pl/ (/)
-- [lista wpisów](https://adwentrodzinny.pl/lista/) (/lista/)
+- [lista wpisów](https://adwentrodzinny.pl/lista/)
 - i potem pozostałe podstronki, typu "o nas", "wieniec" i takie tam…  
 
 ## Strona główna ładuje aktualny dzień
@@ -45,7 +45,7 @@ Aby zobaczyć odnośniki do wszystkich dni, aby na przykład sprawdzić czy są 
 
 - Przygotować tytuły wpisów na każdy dzień i zrobić puste wpisy z tymi tytułami
 - Uzupełnić wpisy tak, aby były gotowe na czas
-- Zmienić rok na nowy w `lista.md`
+- Zmienić rok na nowy w `lista.md`, stare na `listaXX.md`
 - W pierwszą niedzielę adwentu zmienić `index.md` na treść z `index-advent.md`
 - Sprawdzić wszystkie wpisy na liście wpisów - jak się wczytują, jakie mają treści, itd. 
 - Gotowe - adwent może ruszać!
@@ -53,7 +53,7 @@ Aby zobaczyć odnośniki do wszystkich dni, aby na przykład sprawdzić czy są 
 ## Powiadomienia mailowe codzienne
 
 - Wysłać mailing w piątek przed adwentem
-- Przygotować mailingi na każdy dzień adwentu aby startowały około 6 rano. 
+- Przygotować mailingi na każdy dzień adwentu aby startowały około 6 rano - 12:12 EST NYC
 
 ## Co zrobić po adwencie?
 
@@ -61,3 +61,6 @@ Aby zobaczyć odnośniki do wszystkich dni, aby na przykład sprawdzić czy są 
 - zamienić `index.md` na treść z `index-before.md`
 - wysłać ostatni mailing z życzeniami noworocznymi i podziękowaniem za wspólną zabawę
 
+## Automatyzacja
+
+- [Skrót Siri do kopiowania lub dodawania wpisów](https://www.icloud.com/shortcuts/11627d7185eb4c6eac7a2a8a790e0b79)

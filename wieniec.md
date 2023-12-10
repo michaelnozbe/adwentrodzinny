@@ -1,5 +1,5 @@
 ---
-title: Wieniec Adwentowy 2023
+title: Wieniec Adwentowy
 subtitle: Zadanie ZERO - przygotuj się na Adwent
 ---
 
@@ -9,10 +9,38 @@ Symbolem tej wędrówki jest wieniec adwentowy, czyli ozdoba, najczęściej w fo
 
 ## Czego potrzebujesz?
 
+## Wieniec wersja podstawowa - po prostu cztery świece! 🕯️🕯️🕯️🕯️
+
 Zasadniczo wystarczy wianek (dostępny w każdej kwiaciarni) i cztery świece. W bardziej "wypasionej" wersji przydadzą się drobne ozdoby do dekoracji. [Inspiracje znajdziesz tutaj](https://www.akademiaflorystyki.pl/wieniec-adwentowy-i-bozonarodzeniowy/)
 
 ![Wieniec](/img/adwent-1.jpg)
 
-**Pierwszą świecę zapalamy 3 grudnia**, a kolejne w następne niedziele aż do ostatniej, czwartej, gdy zapłoną wszystkie cztery świeczki.
+## Wieniec domowej roboty - wersja zaawansowana!
+
+![](/img/wieniec-start.jpg)
+
+Rodzina Sebastiana z naszej wspólnoty do wykonania wieńca użyła następujących materiałów i narzędzi:
+
+- Wkrętarka
+- Palnik do podgrzania wkrętów, żeby świece nie pękły przy nasuwaniu
+- Pistolet do kleju na gorąco (nie załapał się na zdjęcia)
+- Plaster 
+- 4 wkręty do drewna
+- 4 świece
+
+![](/img/wieniec-mid.jpg)
+
+Do dekoracji wieńca adwentowego wystarczy:
+
+- Czerwona wstążka
+- Wysuszone plastry pomarańczy
+- Orzechy
+- Gałązki cisu (bez nasionek – pamiętajmy, że te są trujące dla ludzi i zwierząt domowych!)
+
+Lub co tylko Wam przyjdzie do głowy! Oto efekt końcowy wieńca u Sebastiana:
+
+![](/img/wieniec-gotowy.jpg)
+
+
 
 **[Powrót do strony głównej](/)**
