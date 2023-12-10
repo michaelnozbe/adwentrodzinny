@@ -8,7 +8,7 @@ Cała technologia to strony statyczne na Jekyllu, oparte na GitHubie i hostowane
 
 Wpis na każdy dzień adwentu to odpowiednio sformatowany blog post:
 
-YYYY-MM-DD-YYMMDD.md
+`YYYY-MM-DD-YYMMDD.md`
 
 Czyli rok, miesiąc i dzień po czym rok miesiąc i dzień pisane bardziej kompaktowo.
 
@@ -18,15 +18,15 @@ Oprócz tego używamy listy mailingowej opartej o platformę GetResponse.
 
 ## Najważniejsze podstrony:
 
-- [strona główna](https://adwentrodzinny.pl/ (/)
+- [strona główna](https://adwentrodzinny.pl/)
 - [lista wpisów](https://adwentrodzinny.pl/lista/)
 - i potem pozostałe podstronki, typu "o nas", "wieniec" i takie tam…  
 
 ## Strona główna ładuje aktualny dzień
 
-Czyli generalnie sprawdza datę dzisiejszą w formacie YYMMDD i potem ładuje wpis za pomocą funkcji JavaScript: getDay(), który jest w pliku js/scripts.js
+Czyli generalnie sprawdza datę dzisiejszą w formacie YYMMDD i potem ładuje wpis za pomocą funkcji JavaScript: `getDay()`, który jest w pliku `js/scripts.js`
 
-Jeśli nie ma adwentu, zamieniamy stronę główną na tą stronę która się nazywa "index-before" - tam jest licznik dni do następnego adwentu, ze skryptu js/counter.js
+Jeśli nie ma adwentu, zamieniamy stronę główną na tą stronę która się nazywa `index-before` - tam jest licznik dni do następnego adwentu, ze skryptu `js/counter.js`
 
 Aby załadować konkretny dzień na stronie głównej, inny niż dzień aktualny, wystarczy podać zmienną `?d=YYMMDD` do adresu i podać dzień, który chcemy załadować.
 
@@ -37,7 +37,7 @@ Strona wpisów pokazuje listę wpisów na dany rok adwentowy. Aby działała pop
 - dodać wszystkie wpisy na nowy rok - mogą być na początku puste, wystarczy aby każdy wpis miał swój tytuł
 - zaktualizować zmienną "zisyear" na aktualny rok
 
-Dodatkowo po odpaleniu się tej strony uruchamiany jest skrypt getList(), który sprawdza, aktualny dzień i dodaje aktywne odnośniki do wszystkich dni, które już minęły, aby czytelnicy mogli wrócić do jakiś dni, których na przykład nie zdążyli zrobić.
+Dodatkowo po odpaleniu się tej strony uruchamiany jest skrypt `getList()`, który sprawdza, aktualny dzień i dodaje aktywne odnośniki do wszystkich dni, które już minęły, aby czytelnicy mogli wrócić do jakiś dni, których na przykład nie zdążyli zrobić.
 
 Aby zobaczyć odnośniki do wszystkich dni, aby na przykład sprawdzić czy są te dni dobrze sformatowane, wystarczy dodać do adresu zmienną `?d=test` i wtedy każdy wpis będzie miał swój link.
 
@@ -53,7 +53,7 @@ Aby zobaczyć odnośniki do wszystkich dni, aby na przykład sprawdzić czy są 
 ## Powiadomienia mailowe codzienne
 
 - Wysłać mailing w piątek przed adwentem
-- Przygotować mailingi na każdy dzień adwentu aby startowały około 6 rano - 12:12 EST NYC
+- Przygotować mailingi na każdy dzień adwentu aby startowały około 6 rano - `12:12 EST NYC`
 
 ## Co zrobić po adwencie?
 
