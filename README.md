@@ -61,6 +61,15 @@ Aby zobaczyć odnośniki do wszystkich dni, aby na przykład sprawdzić czy są 
 - zamienić `index.md` na treść z `index-before.md`
 - wysłać ostatni mailing z życzeniami noworocznymi i podziękowaniem za wspólną zabawę
 
+## Adwent w przyszłości - daty:
+
+* Advent 2025: November 30, 2025
+* Advent 2026: November 29, 2026
+* Advent 2027: November 28, 2027
+* Advent 2028: December 3, 2028
+* Advent 2029: December 2, 2029
+* Advent 2030: December 1, 2030 
+
 ## Automatyzacja
 
 - [Skrót Siri do kopiowania lub dodawania wpisów](https://www.icloud.com/shortcuts/11627d7185eb4c6eac7a2a8a790e0b79)
