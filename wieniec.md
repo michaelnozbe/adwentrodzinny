@@ -13,7 +13,7 @@ Symbolem tej wędrówki jest wieniec adwentowy, czyli ozdoba, najczęściej w fo
 
 Zasadniczo wystarczy wianek (dostępny w każdej kwiaciarni) i cztery świece. W bardziej "wypasionej" wersji przydadzą się drobne ozdoby do dekoracji. [Inspiracje znajdziesz tutaj](https://www.akademiaflorystyki.pl/wieniec-adwentowy-i-bozonarodzeniowy/)
 
-![Wieniec](/img/adwent-1.jpg)
+![Wieniec](/img/wieniec-1.jpg)
 
 ## Wieniec domowej roboty - wersja zaawansowana!
 
