@@ -1,12 +1,10 @@
 # O stronie "Adwent Rodzinny"
 
-## Stronę stworzyła wspólnota małżeństw WRSM
+## Stronę stworzyła [wspólnota małżeństw WRSM][s]
 
-[Więcej o naszej wspólnocie na Facebooku][fb]
+[![WRSM](/img/wrsm2022.jpg)][s]
 
-![WRSM](/img/wrsm2022.jpg)
-
-Głównymi pomysłodawcami i wykonawcami rodzinnego kalendarza adwentowego online ze strony Wspólnoty są trzy małżeństwa: Marta i Krzysztof Mital, Jola i Jarek Kania oraz Ewelina i Michał Śliwińscy, we współpracy z Karoliną Potulską i Natalią Cieślak oraz Darią Narloch, Iwoną Śmierzchalską i Sebastianem Wilkiem.
+Głównymi pomysłodawcami i wykonawcami rodzinnego kalendarza adwentowego online ze strony Wspólnoty są trzy małżeństwa: Marta i Krzysztof Mital, Jola i Jarek Kania oraz Ewelina i Michał Śliwińscy, we współpracy z Darią Narloch, Iwoną Śmierzchalską i Sebastianem Wilkiem.
 
 Wszystkie uwagi odnośnie strony i aktywności na stronie prosimy pisać [na naszej stronie na Facebooku][fb].
 
@@ -20,4 +18,5 @@ Adresy e-mail zebrane na tej stronie będą służyły tylko i wyłącznie do wy
 
 **[Powrót do strony głównej](/)**
 
+[s]: https://wrsm.pl/
 [fb]: {{ site.data.main.fb }}
