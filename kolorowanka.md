@@ -12,3 +12,5 @@ Wystarczy kliknąć na obrazek, aby pobrać [plik PDF](/img/adwent-rodzinny-kolo
 Tak przygotowaną kolorowankę warto powiesić na lodówce lub w innym widocznym miejscu w domu, aby móc śledzić Wasz adwentowy postęp!
 
 **[Powrót do strony głównej](/)**
+
+![Book](/img/book.gif)
