@@ -5,3 +5,5 @@ subtitle: Aktywności dla rodziny na każdy dzień adwentu!
 ---
 
 Ładuję informację na dzisiaj…
+
+![Book](/img/book.gif)
