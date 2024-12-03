@@ -73,3 +73,7 @@ Aby zobaczyć odnośniki do wszystkich dni, aby na przykład sprawdzić czy są 
 ## Automatyzacja
 
 - [Skrót Siri do kopiowania lub dodawania wpisów](https://www.icloud.com/shortcuts/11627d7185eb4c6eac7a2a8a790e0b79)
+
+## Licencja
+
+Cały projekt Adwent Rodzinny i wszystkie treści i cały kod można kopiować, przy zachowaniu licencji [Uznania Autorstwa 4.0](https://adwentrodzinny.pl/licencja/).
