@@ -66,24 +66,20 @@
 <div class="begend" id="footer" style="background: url('{{ site.url }}/img/adwent-tlo.png') center center / cover no-repeat;">
 	<div class="begender">
 {% if page.test %}
-<h2>Powiadomienia o aktywnościach codziennie na maila?</h2>
+<h2>Chcesz powiadomienia codziennie na maila?</h2>
+<p>Zapisz się (<a href="/onas/">nie spamujemy🙂</a>)<p>
 {% include email.html %}
-<small><a href="/onas/">{{ site.data.main.desp }}</a></small>
 <p>Chcesz wiedzieć więcej?</p>
-<h3><a href="/lista/">Lista wszystkich aktywności na adwent 2024</a></h3>
+<h3><a href="/lista/">Pełna lista wszystkich aktywności na Adwent 2024</a></h3>
 <h3><a href="/wieniec/">Wieniec Adwentowy - jak przygotować?</a></h3>
 {% endif %}
 	<h2>{{ site.data.main.titl }}</h2>
 	<p>{{ site.data.main.des1 | markdownify }}</p>
 	<p>{{ site.data.main.des2 | markdownify }}</p>
-	<p>{{ site.data.main.des3 | markdownify }}</p>
-	<p>{{ site.data.main.des4 | markdownify }}</p>
-	
 	<div class="container">
 		<div class="left">
-		<h3>{{ site.data.main.desh }}</h3>
-		{% include email.html %}
-		<small><a href="/onas/">{{ site.data.main.desp }}</a></small>
+		<p>{{ site.data.main.des3 | markdownify }}</p>
+		<p>{{ site.data.main.des4 | markdownify }}</p>
 		</div>
 		<div class="right">
 		<h3>{{ site.data.main.dest }}</h3>
