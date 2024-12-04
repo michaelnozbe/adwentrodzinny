@@ -4,4 +4,6 @@ title: Rodzinny Kalendarz Adwentowy
 subtitle: Aktywności dla rodziny na każdy dzień adwentu!
 ---
 
-Ładuję informację na dzisiaj…
+<h2>Ładuję aktywność na dzisiaj…</h2>
+
+Pieśni adwentowe
