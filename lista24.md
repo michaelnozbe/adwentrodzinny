@@ -2,7 +2,7 @@
 js: getList
 ---
 
-{% assign zisyear = "2025" %}
+{% assign zisyear = "2024" %}
 
 # Lista aktywności na Adwent Rodzinny {{ zisyear }}
 
