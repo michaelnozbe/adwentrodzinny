@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html><head>
 
-<title>{% if page.title %}{{ page.title }} – {{ site.data.main.titleshort }}{% else %}{{ site.data.main.title }}{% endif %}</title>
+{% assign advent = "2025" %}
+
+<title>{{ advent }} {% if page.title %}{{ page.title }} – {{ site.data.main.titleshort }}{% else %}{{ site.data.main.title }}{% endif %}</title>
 
 <meta charset="utf-8" />
 <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -66,11 +68,8 @@
 <div class="begend" id="footer" style="background: url('{{ site.url }}/img/adwent-tlo.png') center center / cover no-repeat;">
 	<div class="begender">
 {% if page.test %}Zapraszamy do wspólnej rodzinnej zabawy!{% endif %}
-<h2>Chcesz powiadomienia codziennie na e-maila?</h2>
-<p>Zapisz się (<a href="/onas/">wysyłamy TYLKO powiadomienia adwentowe</a>🙂)<p>
-{% include email.html %}
 <p>Chcesz wiedzieć więcej?</p>
-<h3><a href="/lista/">Pełna lista wszystkich aktywności na Adwent 2024</a></h3>
+<h3><a href="/lista/">Pełna lista wszystkich aktywności na Adwent {{ advent }}</a></h3>
 <h3><a href="/wieniec/">Wieniec Adwentowy - jak przygotować?</a></h3>
 	<h2>{{ site.data.main.titl }}</h2>
 	<p>{{ site.data.main.des1 | markdownify }}</p>
