@@ -68,9 +68,9 @@
 <div class="begend" id="footer" style="background: url('{{ site.url }}/img/adwent-tlo.png') center center / cover no-repeat;">
 	<div class="begender">
 {% if page.test %}Zapraszamy do wspólnej rodzinnej zabawy!{% endif %}
-<p>Chcesz wiedzieć więcej?</p>
-<h3><a href="/lista/">Pełna lista wszystkich aktywności na Adwent {{ advent }}</a></h3>
-<h3><a href="/wieniec/">Wieniec Adwentowy - jak przygotować?</a></h3>
+<p>{{ site.data.main.more }}</p>
+<h3><a href="/lista/">{{ site.data.main.lista }} {{ advent }}</a></h3>
+<h3><a href="/wieniec/">{{ site.data.main.wieniec }}</a></h3>
 	<h2>{{ site.data.main.titl }}</h2>
 	<p>{{ site.data.main.des1 | markdownify }}</p>
 	<p>{{ site.data.main.des2 | markdownify }}</p>
