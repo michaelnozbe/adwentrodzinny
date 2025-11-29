@@ -18,6 +18,8 @@ Strona tylko posiada podstawowy tracker Google Analytics do liczenia statystyk w
 
 Lista mailingowa utrzymywana jest na platformie *GetResponse* na koncie firmy *Nozbe Sp. z o.o.*, ale nikt zapisujący się na listę na tej stronie nie będzie otrzymywał wiadomości komercyjnych od tych firm.
 
+<getresponse-form form-id="c6f33be9-b173-47de-b9c6-1c1d6babf8e8" e="0"></getresponse-form>
+
 {% include email.html %}
 
 Adresy e-mail zebrane na tej stronie będą służyły tylko i wyłącznie do wysyłania przypomnień o Adwentowym Kalendarzu rodzinnym. Po adwencie będzie można z tej listy albo się wypisać, albo zostawić swój adres w celu otrzymania informacji o kolejnej akcji adwentowej za rok.
